@@ -49,4 +49,5 @@
 <!-- kaggle:START -->
 - (https://www.kaggle.com/rishikapatwa41)
 - (https://rishikas-radical-site.webflow.io/)
+- (https://www.linkedin.com/in/rishika-patwa-8621411b2/)
 <!-- kaggle:END -->
