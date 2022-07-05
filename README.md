@@ -45,7 +45,8 @@
 
 ---
 
-## 📕 kaggle Link
+## 📕 Link
 <!-- kaggle:START -->
 - (https://www.kaggle.com/rishikapatwa41)
+- (https://rishikas-radical-site.webflow.io/)
 <!-- kaggle:END -->
